@@ -1,0 +1,12 @@
+Lai palaistu spēli:
+1. Izvelc failus.
+2. Atver failu "index.html" izmantojot interneta pārlūku.
+3. Gatavs.
+
+Kā spēlēt:
+Ar pogām < un > pagriez trīsturi.
+Ar ^ pāvietojies ar trīstūri uz priekšu.
+Notver riņķus, lai gūtu punktus un paaugstinātu spēles grūtību.
+Izvairies no kvadrātiem. Saduroties ar kvadrātu tu pazaudē dzīvību un atsities no tā.
+Kad beidzas dzīvības spēle beidzas un savus iegūtos punktus vari redzēt augšējā labajā stūrī.
+atjaunini lapu, lai sāktu no jauna.
